@@ -1,6 +1,4 @@
 # Jotto
-Jotto is an early predecessor to the hit game “Wordle,” with slight variation in  the rules of the game. Essentially, a five-letter word is chosen within the program, and the user has 6 guesses, with each guess receiving feedback. This continues for 3 words, and after three rounds the user is given a score and possibly placed on a leaderboard.
-
 HOW TO PLAY:
 Copy/Paste or clone the repository to your IDE. Run it.
 Enter an option from the main menu; 1 to play, 2 to view the scoreboard, 3 to exit the program.
